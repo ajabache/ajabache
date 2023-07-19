@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
 
-<img src="https://preview.redd.it/opoowguvnvcb1.gif?format=mp4&s=cd6d9ff2a37fae06f089cd3770aefcc27596fac2" width="512px"/>
+<img src="https://preview.redd.it/opoowguvnvcb1.gif?width=640&format=mp4&s=41b3949a4c50f10417ac5f16e3f985344ff9cf09" width="512px"/>
 
 
 # 💫 About Me
