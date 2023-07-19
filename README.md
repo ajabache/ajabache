@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
 
-<img src="/abache_logo.gif" width="512px"/>
+<img class="mx-auto d-block w-75 img-fluid rounded-circle mb-2 p-2" src="/abache_logo.gif" width="512px"/>
 
 
 # 💫 About Me
