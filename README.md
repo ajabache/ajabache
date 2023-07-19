@@ -22,8 +22,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Dev Memes
-<img src="[https://rm.up.railway.app/](https://preview.redd.it/hzw6xy77utk61.jpg?width=640&crop=smart&auto=webp&s=32bd0c1cc3f37ce42a061b99dd048630020161bb)" width="512px"/>
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://preview.redd.it/hzw6xy77utk61.jpg?auto=webp&s=27727c326af28700e8ff54ebc04f3e0d13f798b3" width="512px"/>
+<img src="https://rm.up.railway.app/](https://preview.redd.it/hzw6xy77utk61.jpg?auto=webp&s=27727c326af28700e8ff54ebc04f3e0d13f798b3)" width="512px"/>
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@adrianjonesaabache) 
