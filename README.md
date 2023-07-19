@@ -2,11 +2,6 @@
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
 <div align="center">
-  <style>
-  .circular-image {
-    border-radius: 50%;
-  }
-</style>
 <img class="circular-image" src="/abache_logo.gif" width="512px"/>
 </div>
 
