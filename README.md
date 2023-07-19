@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm AJ</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<p align="left"> <a href="https://twitter.com/jonesabache" target="blank"><img src="https://img.shields.io/twitter/follow/jonesabache?logo=twitter&style=for-the-badge" alt="jonesabache" /></a> </p>
-
 - 🌱 I’m currently learning **other frameworks**
 
 - 👨‍💻 Know about my experiences and all of my projects are available at [https://ajabache.github.io/my-personal-website/](https://ajabache.github.io/my-personal-website/)
@@ -11,7 +9,7 @@
 
 - 📫 How to reach me **ajtheinventor23@gmail.com**
 
-- ⚡ Fun fact **I love cheese burger**
+- ⚡ Fun fact: **I love cheese burger**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
