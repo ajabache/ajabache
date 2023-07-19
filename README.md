@@ -22,8 +22,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Dev Memes
-<img src="https://i.imgflip.com/62l9mx.jpg" width="512px"/>
-<img src="https://i.chzbgr.com/thumb800/16763397/h0B023285/funny-memes-programming-memes-developers-coding-memes-coder-coding-nerdy-memes-memes-java-memes" width="512px"/>
+<img align="center" src="https://i.imgflip.com/62l9mx.jpg" width="512px"/>
+<img align="center" src="https://i.chzbgr.com/thumb800/16763397/h0B023285/funny-memes-programming-memes-developers-coding-memes-coder-coding-nerdy-memes-memes-java-memes" width="512px"/>
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@adrianjonesaabache) 
