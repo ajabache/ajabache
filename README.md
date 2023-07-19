@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
 
-<img class="mx-auto d-block w-75 img-fluid rounded-circle mb-2 p-2" src="https://cdn.fbsbx.com/v/t59.2708-21/361617901_6550243538394621_3010413729666420383_n.gif?_nc_cat=111&ccb=1-7&_nc_sid=041f46&_nc_eui2=AeGRGSOE5TkU9qEJDiybLX73b5BSKmhkgmNvkFIqaGSCY7TikT-E8eRcK0217hJd0Mwh1KXKXlY5_LBmKkWn8AbN&_nc_ohc=YcM8c3x3RnMAX-dJp3I&_nc_oc=AQnO3MeemLYYrOurBZh7Yq-3Chzxp1BHwJIyMIvVqq0tLiFA8LJT-ntGOo-RB1froC8&_nc_ht=cdn.fbsbx.com&oh=03_AdS5zKHY-4ObYv1Skj4j8FQquuzbU86x0yuoENQRD48obw&oe=64B8FF01" width="512px"/>
+<img src="https://drive.google.com/file/d/1e48jPDoe1y0urxemjPdRBVVK0FwGyhvl/view?usp=drive_link" width="512px"/>
 
 
 # 💫 About Me
