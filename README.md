@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AJ</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate software engineer from Philippines</h3>
 
 <div align="center">
 <img class="circular-image" src="/abache_logo.gif" width="512px"/>
