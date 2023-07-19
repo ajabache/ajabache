@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ajabache&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ajabache&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajabache&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<div align="center">
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ajabache&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
@@ -22,9 +22,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Dev Memes
-<img align="center" src="https://i.imgflip.com/62l9mx.jpg" width="512px"/>
-<img align="center" src="https://i.chzbgr.com/thumb800/16763397/h0B023285/funny-memes-programming-memes-developers-coding-memes-coder-coding-nerdy-memes-memes-java-memes" width="512px"/>
-
+<img src="https://i.imgflip.com/62l9mx.jpg" width="512px"/>
+<img src="https://i.chzbgr.com/thumb800/16763397/h0B023285/funny-memes-programming-memes-developers-coding-memes-coder-coding-nerdy-memes-memes-java-memes" width="512px"/>
+</div>
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@adrianjonesaabache) 
 
