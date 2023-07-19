@@ -17,7 +17,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ajabache&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-<div align="center">
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -27,6 +27,6 @@
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@adrianjonesaabache) 
-</div>
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
