@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm AJ</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
+<div align="center">
+<img src="https://i.chzbgr.com/thumb800/16763397/h0B023285/funny-memes-programming-memes-developers-coding-memes-coder-coding-nerdy-memes-memes-java-memes" width="512px"/>
+</div>
+
 # 💫 About Me
 🌱 I’m currently learning other frameworks<br>👨‍💻 Know about my experiences and all of my projects are available at https://ajabache.github.io/my-personal-website/<br>💬 Ask me about anything<br>📫 How to reach me ajtheinventor23@gmail.com<br>⚡ Fun fact: I love cheeseburger
 
