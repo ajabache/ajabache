@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm AJ</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajabache&label=Profile%20views&color=0e75b6&style=flat" alt="ajabache" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajabache" alt="ajabache" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/jonesabache" target="blank"><img src="https://img.shields.io/twitter/follow/jonesabache?logo=twitter&style=for-the-badge" alt="jonesabache" /></a> </p>
 
 - 🌱 I’m currently learning **other frameworks**
@@ -35,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajabache&show_icons=true&locale=en" alt="ajabache" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajabache&" alt="ajabache" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajabache" alt="ajabache" /></a> </p>
+
